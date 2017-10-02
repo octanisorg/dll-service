@@ -24,12 +24,12 @@ try:
        state = 0
     if(prevstate != state):
     	print("change detected")
-        if (start_time == None)
+        if (start_time == None):
             start_time = time.time()
         File.write(strftime("%a, %d %b %Y %H:%M:%S", gmtime()) + " MED 3 2215 is " + ("opened." if state == 1 else "closed.") + "\n")
         
-    else
-        if (start_time is not None)
+    else:
+        if (start_time is not None):
             elapsed_time = time.time() - start_time
             if (elapsed_time >= 60):
                 start_time = None
