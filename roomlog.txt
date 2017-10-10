@@ -1,0 +1,10 @@
+Mon, 02 Oct 2017 22:33:59 MED 3 2215 is opened.
+Wed, 04 Oct 2017 21:44:12 MED 3 2215 is opened.
+Wed, 04 Oct 2017 21:50:16 MED 3 2215 is opened.
+Wed, 04 Oct 2017 21:52:24 MED 3 2215 is opened.
+Wed, 04 Oct 2017 21:52:48 MED 3 2215 is opened.
+Wed, 04 Oct 2017 21:59:23 MED 3 2215 is closed.
+Thu, 05 Oct 2017 09:38:31 MED 3 2215 is closed.
+Thu, 05 Oct 2017 09:39:50 MED 3 2215 is opened.
+Tue, 10 Oct 2017 08:46:47,MED 3 2215, closed
+10 Oct 2017 08:47:51,MED 3 2215,closed
